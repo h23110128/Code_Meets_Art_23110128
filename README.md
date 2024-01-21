@@ -11,8 +11,10 @@ On a deeper note, it also represents miracles that might change your perspective
 
 References: 
 https://www.geeksforgeeks.org/
-https://github.com/fiyero/Opencv_replace_bg
 
+https://github.com/fiyero/Opencv_replace_bg
 
 Image Sources:
 https://www.discover-the-world.com/
+
+https://theliveahmedabad.com/
